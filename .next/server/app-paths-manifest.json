@@ -1,0 +1,9 @@
+{
+  "/harita/page": "app/harita/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/karakterler/page": "app/karakterler/page.js",
+  "/api/chracters/route": "app/api/chracters/route.js",
+  "/hikaye/page": "app/hikaye/page.js",
+  "/bolumler/page": "app/bolumler/page.js",
+  "/page": "app/page.js"
+}
