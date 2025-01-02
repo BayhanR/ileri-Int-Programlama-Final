@@ -1,1 +1,1 @@
-export const TMDB_API_KEY="AIzaSyBJWIiiFONCriad3-ZREyXCa_aiYa0vicU"
+export const TMDB_API_KEY="YOUR_API_KEY"
